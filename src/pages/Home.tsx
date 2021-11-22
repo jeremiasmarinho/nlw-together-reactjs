@@ -1,7 +1,7 @@
 
 import { useHistory } from 'react-router-dom';
 
-import { auth, database, firebase } from '../services/firebase'
+import { database, } from '../services/firebase'
 
 import illustrationImg from '../assets/images/illustration.svg'
 import logoImg from '../assets/images/logo.svg'
